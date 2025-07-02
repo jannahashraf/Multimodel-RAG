@@ -1,0 +1,10 @@
+.venv/
+.dist/
+.gradio/
+__pycache__
+Notes.txt
+qa-model.txt
+temp_img.jpg
+vector_db/
+paper_db/
+extracted_images/*
